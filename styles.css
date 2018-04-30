@@ -3,11 +3,18 @@ body{
   text-align: center;
 }
 
-.flashy {
+.flashy{
   color: #9da65d;
   text-shadow: 3px 3px 20px #9da65d;
 }
 
-h2 {
-  
+h2{
+  color: #b86c65;
+}
+
+h4{
+  color: #b86c65;
+  text-decoration: underline;
+  font-stretch: expanded;
+  font-style: italic;
 }
